@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leszek Nowak (LeNowak)
-- I'm working for facade design company
-- 🌱 I’m currently learning Python for my design support tools
+- I'm working for facade design company as a coding support
+- 🌱 I’m advanced Python data engineering and I learn data science skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - leave message here on GH
 
